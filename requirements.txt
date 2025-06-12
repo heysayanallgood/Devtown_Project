@@ -1,0 +1,5 @@
+flask
+gunicorn
+scikit-learn==1.6.1
+numpy
+pandas
